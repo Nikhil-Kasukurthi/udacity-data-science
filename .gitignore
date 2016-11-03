@@ -5,6 +5,10 @@ courses
 p2/data/austin.osm
 p2/data/austin.osm.json
 p2/db
+/p1
+/p2
+/p3
+/p5
 */log
 .RData
 .Rhistory
